@@ -1,8 +1,8 @@
-# Semantically-Equivalent-and-Coherent-Attacks
+# Semantically Equivalent & Coherent Attacks (SECA)
 
 This repository is the official implementation of **SECA: Semantically Equivalent &amp; Coherent Attacks for Eliciting LLM Hallucinations**
 
-## Abstract
+## ✨ Abstract
 
 Large Language Models (LLMs) are increasingly deployed in high-risk domains where trustworthy outputs are essential. Despite their strong performance, state-of-the-art LLMs can still produce hallucinations, raising concerns about their reliability. To better understand this failure mode, prior works have explored eliciting hallucinations via adversarial attack methods. However, existing attacks often generate prompts that are unlikely to occur in real-world interactions, either by appending gibberish characters or modifying the underlying meaning of the original prompt, thus providing little insight into how hallucinations may occur. In this work, we propose an adversarial attack method that searches for **Semantically Equivalent and Coherent Attacks (SECA)** to realistically elicit hallucinations. Our approach formulates the attack as a constrained optimization problem over the input prompt space under semantic equivalence and coherence constraints. To avoid searching for successful attack prompts combinatorially, our proposed solver consists of two models: An LLM-based proposer that generates diverse rephrasings of a given prompt and an LLM-based feasibility checker that verifies that the generated attack prompts satisfy linguistic conditions such as mutual entailment and information retention.
 Our experiments on the MMLU dataset show that SECA can generate attacks that achieve a higher attack success rate and lower constraint violations than existing attack methods. By applying our gradient-free method to a wide range of open-source and commercial, gradient-inaccessible LLMs, our study highlights the sensitivity of LLMs to realistic and plausible prompt variations.
