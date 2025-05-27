@@ -73,3 +73,12 @@ This repository includes a demo notebook [demo.ipynb](./demo.ipynb) that demonst
 | ------------ | ------- | ------------------------------------- |
 | `--rng_seed` | `42`    | Random seed for reproducibility.      |
 | `--verbose`  | `False` | Enables verbose logging if specified. |
+
+
+## 📬 Contact
+
+For questions or bug reports, please either:
+
+* Open an issue in this [GitHub repository](https://github.com/Buyun-Liang/SECA/issues), or
+* Email [Buyun Liang](https://buyunliang.org/) at: `byliang [at] seas [dot] upenn [dot] edu`
+
