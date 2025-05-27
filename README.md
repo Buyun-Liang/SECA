@@ -82,3 +82,6 @@ For questions or bug reports, please either:
 * Open an issue in this [GitHub repository](https://github.com/Buyun-Liang/SECA/issues), or
 * Email [Buyun Liang](https://buyunliang.org/) at: `byliang [at] seas [dot] upenn [dot] edu`
 
+## 📄 License
+
+The code is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
