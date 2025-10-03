@@ -1,6 +1,6 @@
-# Semantically Equivalent & Coherent Attacks (SECA)
+# Semantically Equivalent and Coherent Attacks (SECA)
 
-This repository is the official implementation of **SECA: Semantically Equivalent &amp; Coherent Attacks for Eliciting LLM Hallucinations**
+This repository is the official implementation of our NeurIPS 2025 paper [**SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations**] (https://neurips.cc/virtual/2025/poster/119640), by [Buyun Liang](https://buyunliang.org/), [Liangzu Peng](https://liangzu.github.io/), [Jinqi Luo](https://peterljq.github.io/), [Darshan Thaker](https://darshanthaker.github.io/), [Kwan Ho Ryan Chan](https://ryanchankh.github.io/), and [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/).
 
 ## ✨ Abstract
 
