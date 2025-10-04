@@ -90,4 +90,4 @@ For questions or bug reports, please either:
 The code is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ## 🛡️ Disclaimer
-This repository and its contributors provide the code and documentation **"as is"** without any warranties or guarantees. By using this repository, you agree that you are solely responsible for ensuring your work complies with all applicable laws, regulations, and ethical standards. The authors explicitly disclaim liability for any misuse, damage, or harm arising from the use of this material.
+The code and documentation in this repository are made available for research and educational purposes only, with no warranties or guarantees. Users are fully responsible for ensuring their work complies with applicable laws, regulations, and ethical standards. The authors disclaim any liability for misuse, damage, or harm resulting from the use of this material.
