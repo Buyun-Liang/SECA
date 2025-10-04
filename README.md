@@ -4,6 +4,10 @@ This repository is the official implementation of the NeurIPS 2025 paper [*SECA:
 
 ## ✨ Abstract
 
+<p align="center">
+⚠️ <b>Warning: This method may be misused for malicious purposes.</b>
+</p>
+
 Large Language Models (LLMs) are increasingly deployed in high-risk domains. However, state-of-the-art LLMs often produce hallucinations, raising serious concerns about their reliability. Prior work has explored adversarial attacks for hallucination elicitation in LLMs, but they often produce unrealistic prompts&mdash;by either inserting gibberish tokens or altering the original meaning&mdash;thus offering limited insight into how hallucinations may occur in practice. While adversarial attacks in computer vision often involve realistic modifications to input images, the problem of finding realistic adversarial prompts for eliciting LLM hallucinations has remained largely underexplored. To address this gap, we propose **S**emantically **E**quivalent and **C**oherent **A**ttacks (SECA) to elicit hallucinations via realistic modifications to the prompt that preserve its meaning while maintaining semantic coherence. Our contributions are threefold: (i) we formulate realistic attacks for hallucination elicitation as a constrained optimization problem over the input prompt space under semantic equivalence and coherence constraints; (ii) we introduce a constraint-preserving zeroth-order method to effectively search for adversarial yet feasible prompts; and (iii) we demonstrate through experiments on open-ended multiple-choice question answering tasks that SECA achieves higher attack success rates while incurring almost no constraint violations compared to existing methods. SECA highlights the sensitivity of both open-source and commercial gradient-inaccessible LLMs to realistic and plausible prompt variations.
 
 
@@ -84,3 +88,6 @@ For questions or bug reports, please either:
 ## 📄 License
 
 The code is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+
+## 📄 Disclaimer
+This repository and its contributors provide the code and documentation **"as is"** without any warranties or guarantees. By using this repository, you agree that you are solely responsible for ensuring your work complies with all applicable laws, regulations, and ethical standards. The authors explicitly disclaim liability for any misuse, damage, or harm arising from the use of this material.
