@@ -81,6 +81,30 @@ This repository includes a demo notebook [demo.ipynb](./demo.ipynb) that demonst
 | `--rng_seed` | `42`    | Random seed for reproducibility.      |
 | `--verbose`  | `False` | Enables verbose logging if specified. |
 
+## 📖 Citation
+
+If you find our work useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{liang2025seca,
+  title     = {SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations},
+  author    = {Liang, Buyun and Peng, Liangzu and Luo, Jinqi and Thaker, Darshan and Chan, Kwan Ho Ryan and Vidal, Ren{\'e}},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2025}
+}
+```
+
+For convenience, you may also cite the arXiv version:
+
+```bibtex
+@article{liang2025seca,
+  title   = {SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations},
+  author  = {Liang, Buyun and Peng, Liangzu and Luo, Jinqi and Thaker, Darshan and Chan, Kwan Ho Ryan and Vidal, Ren{\'e}},
+  journal = {arXiv preprint arXiv:2510.04398},
+  year    = {2025},
+}
+```
+
 
 ## 📬 Contact
 
