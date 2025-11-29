@@ -1,10 +1,16 @@
 # Semantically Equivalent and Coherent Attacks (SECA)
 
-This repository is the official implementation of the NeurIPS 2025 paper [*SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations*](https://neurips.cc/virtual/2025/poster/119640), by [Buyun Liang](https://buyunliang.org/), [Liangzu Peng](https://liangzu.github.io/), [Jinqi Luo](https://peterljq.github.io/), [Darshan Thaker](https://darshanthaker.github.io/), [Kwan Ho Ryan Chan](https://ryanchankh.github.io/), and [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/).
+This repository is the official implementation of the NeurIPS 2025 paper [*SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations*](https://neurips.cc/virtual/2025/poster/119640).
+
+Authors: [Buyun Liang](https://buyunliang.org/), [Liangzu Peng](https://liangzu.github.io/), [Jinqi Luo](https://peterljq.github.io/), [Darshan Thaker](https://darshanthaker.github.io/), [Kwan Ho Ryan Chan](https://ryanchankh.github.io/), and [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/).
+
+[ArXiv](https://arxiv.org/abs/2510.04398) · [NeurIPS Page](https://neurips.cc/virtual/2025/poster/119640) · [Code](https://github.com/Buyun-Liang/SECA) · [Poster](neurips_2025_seca_poster.png)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.04398-b31b1b)](https://arxiv.org/abs/2510.04398)
 [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc/virtual/2025/poster/119640)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Buyun-Liang/SECA)
+[![Poster](https://img.shields.io/badge/Poster-PNG-ff69b4)](neurips_2025_seca_poster.png)
+
 
 ## ✨ Abstract
 
