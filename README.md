@@ -4,12 +4,13 @@ This repository is the official implementation of the NeurIPS 2025 paper [*SECA:
 
 Authors: [Buyun Liang](https://buyunliang.org/), [Liangzu Peng](https://liangzu.github.io/), [Jinqi Luo](https://peterljq.github.io/), [Darshan Thaker](https://darshanthaker.github.io/), [Kwan Ho Ryan Chan](https://ryanchankh.github.io/), and [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/).
 
-[ArXiv](https://arxiv.org/abs/2510.04398) · [NeurIPS Page](https://neurips.cc/virtual/2025/poster/119640) · [Code](https://github.com/Buyun-Liang/SECA) · [Poster](neurips_2025_seca_poster.png)
+[Project Website](https://buyunliang.org/project_website/seca/) · [ArXiv](https://arxiv.org/abs/2510.04398) · [NeurIPS Page](https://neurips.cc/virtual/2025/poster/119640) · [Code](https://github.com/Buyun-Liang/SECA) · [Poster](https://buyunliang.org/images/posters/neurips_2025_seca_poster.png)
 
+[![Website](https://img.shields.io/badge/Website-SECA_Project-6f42c1)](https://buyunliang.org/project_website/seca/)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.04398-b31b1b)](https://arxiv.org/abs/2510.04398)
 [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc/virtual/2025/poster/119640)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Buyun-Liang/SECA)
-[![Poster](https://img.shields.io/badge/Poster-PNG-ff69b4)](neurips_2025_seca_poster.png)
+[![Poster](https://img.shields.io/badge/Poster-PNG-ff69b4)](https://buyunliang.org/images/posters/neurips_2025_seca_poster.png)
 
 
 ## ✨ Abstract
@@ -26,6 +27,8 @@ Large Language Models (LLMs) are increasingly deployed in high-risk domains. How
 ![SECA Attack Example](seca_ex.png)
 
 **Illustration of a factuality hallucination induced by a SECA adversarial prompt.** *The top two green boxes show the full attack prompt based on the original MMLU question in elementary mathematics, followed by the faithful and factual response from the target LLM. The bottom two blue boxes present a SECA-generated adversarial variant of the original prompt, with edits highlighted in red, and the corresponding target LLM explanation, which includes red-highlighted hallucinated content. In this example, the model selects the incorrect choice ('B') and generates a hallucinated explanation, showcasing a factuality hallucination.*
+
+For more examples, please refer to our [project website](https://buyunliang.org/project_website/seca/).
 
 ## 📦 Requirements 
 
