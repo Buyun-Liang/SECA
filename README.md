@@ -28,7 +28,7 @@ Large Language Models (LLMs) are increasingly deployed in high-risk domains. How
 
 **Illustration of a factuality hallucination induced by a SECA adversarial prompt.** *The top two green boxes show the full attack prompt based on the original MMLU question in elementary mathematics, followed by the faithful and factual response from the target LLM. The bottom two blue boxes present a SECA-generated adversarial variant of the original prompt, with edits highlighted in red, and the corresponding target LLM explanation, which includes red-highlighted hallucinated content. In this example, the model selects the incorrect choice ('B') and generates a hallucinated explanation, showcasing a factuality hallucination.*
 
-For more examples, please refer to our [project website](huggingface.co/spaces/byliang/SECA).
+For more examples, please refer to our [project website](https://huggingface.co/spaces/byliang/SECA).
 
 ## 📦 Requirements 
 
