@@ -14,7 +14,7 @@ Authors: [Buyun Liang](https://buyunliang.org/), [Liangzu Peng](https://liangzu.
 
 ## 🔗 Related Work
 
-**[REALISTA: Realistic Latent Adversarial Attacks](https://proceedings.mlr.press/v306/liang26q.html)** (ICML 2026) extends SECA with latent-space optimization for more diverse hallucination-eliciting attacks.
+**[REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](https://proceedings.mlr.press/v306/liang26q.html)** (ICML 2026) extends SECA with latent-space optimization for more diverse hallucination-eliciting attacks. **[[Paper](https://proceedings.mlr.press/v306/liang26q.html)] [[GitHub](https://github.com/Buyun-Liang/REALISTA)]**
 
 ## ✨ Abstract
 
