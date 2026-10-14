@@ -12,6 +12,9 @@ Authors: [Buyun Liang](https://buyunliang.org/), [Liangzu Peng](https://liangzu.
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Buyun-Liang/SECA)
 [![Poster](https://img.shields.io/badge/Poster-PNG-ff69b4)](https://buyunliang.org/images/posters/neurips_2025_seca_poster.png)
 
+## 🔗 Related Work
+
+**[REALISTA: Realistic Latent Adversarial Attacks](https://proceedings.mlr.press/v306/liang26q.html)** (ICML 2026) extends SECA with latent-space optimization for more diverse hallucination-eliciting attacks.
 
 ## ✨ Abstract
 
